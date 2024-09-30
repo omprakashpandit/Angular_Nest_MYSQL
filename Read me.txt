@@ -1,0 +1,16 @@
+https://github.com/techiediaries/nest-angular-crud
+
+Note:-This project was generated with Angular CLI version 7.3.1
+C:\Users\ompra>node -v
+v16.14.0
+C:\Users\ompra>npm -v
+8.3.1
+C:\Users\ompra>ng version
+Angular CLI: 7.3.1
+
+
+D:\NESTJS\Angular_Nest_MYSQL\backend> npm install
+D:\NESTJS\Angular_Nest_MYSQL\frontend> npm install
+
+npm start
+ng serve
